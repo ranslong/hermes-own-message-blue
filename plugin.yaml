@@ -1,0 +1,7 @@
+name: hermes-own-message-blue
+version: "0.1.0-dev.1"
+description: "Customize your own message bubbles in direct and group chats on Hermes Desktop."
+provides_tools: []
+provides_hooks: []
+provides_middleware: []
+requires_env: []
